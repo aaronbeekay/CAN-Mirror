@@ -129,6 +129,7 @@
 <hole x="85.09" y="39.116" drill="2.2"/>
 <hole x="85.09" y="5.842" drill="2.2"/>
 <hole x="2.032" y="6.604" drill="2.2"/>
+<rectangle x1="37.084" y1="0.762" x2="46.482" y2="5.588" layer="21"/>
 </plain>
 <libraries>
 <library name="TI">
